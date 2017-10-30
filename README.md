@@ -12,7 +12,7 @@ The repository for the final year project 2017
       - third iteration: fully working prototype
     - A list of deliverables and deadlines are fine (example below)
     
-    | Date | Milestone | Deliverable |
+    | Deadline | Milestone | Deliverable |
     | ---- | --------- | ----------- |
     | Week 4 | Submit project proposal | Project proposal|
     | Week 8 | Complete literature review | Literature review report|
