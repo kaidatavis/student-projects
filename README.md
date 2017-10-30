@@ -10,7 +10,18 @@ The repository for the final year project 2017
       - first iteration: paper prototype
       - second iteration: working prototype with minimal function
       - third iteration: fully working prototype
-    - A list of deliverables and deadlines are fine
+    - A list of deliverables and deadlines are fine (example below)
+    
+    | Date | Milestone | Deliverable |
+    | ---- | --------- | ----------- |
+    | Week 4 | Submit project proposal | Project proposal|
+    | Week 8 | Complete literature review | Literature review report|
+    | Week 11 | Complete first iteration | paper prototype|
+    | Week 12 | Submit interim report | Interim report|
+    | Week 16 | Complete second iteration | working prototype|
+    | Week 20 | Complete third iteration | fial prototype|
+    | Week 24 | Submit final report | final report|
+    
     - If you absolutely have to have a Gantt Chart: https://chrome.google.com/webstore/search/gantt%20chart 
   - Reference
     - Reference and citations: http://libguides.mdx.ac.uk/c.php?g=322119&p=2155071
