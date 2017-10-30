@@ -16,11 +16,11 @@ The repository for the final year project 2017
     | ---- | --------- | ----------- |
     | Week 4 | Submit project proposal | Project proposal|
     | Week 8 | Complete literature review | Literature review report|
-    | Week 11 | Complete first iteration | paper prototype|
+    | Week 11 | Complete first iteration | Paper prototype|
     | Week 12 | Submit interim report | Interim report|
-    | Week 16 | Complete second iteration | working prototype|
-    | Week 20 | Complete third iteration | fial prototype|
-    | Week 24 | Submit final report | final report|
+    | Week 16 | Complete second iteration | Working prototype|
+    | Week 20 | Complete third iteration | Final prototype|
+    | Week 24 | Submit final report | Final report|
     
     - If you absolutely have to have a Gantt Chart: https://chrome.google.com/webstore/search/gantt%20chart 
   - Reference
