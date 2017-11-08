@@ -1,5 +1,24 @@
 The repository for the final year project 2017
 
+# Project Meeting 2 - 9 Nov 2017
+
+## Litearature Review
+
+### Existing Work
+- Needs to be much more **complete** than the litearture review in the project proposal;
+- Cover different media: app, website, service, organisation, physical print/product ...
+- Focus on the most relevant: help you to narrow down your scope.
+- Include academic publications to support your argument: 
+  - IEEE Xplore: http://ieeexplore.ieee.org/Xplore/home.jsp
+  - ACM Digital Library: https://dl.acm.org/
+- Use Zotero
+
+### Development Technologies
+
+## First Iteration
+
+# Project Meeting 1 - 26 Oct 2017
+
 ## Project proposal
   - Introduction/background
   - The problem + overview/literature review: related software, app, website, and academic publications
