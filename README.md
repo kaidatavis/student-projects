@@ -15,6 +15,15 @@ The repository for the final year project 2017
 
 ### Development Technologies
 
+- Be **open** about what form the project prototype will be: app, website, service, organisation, physical print/product ...
+- Research different ways of implementation:
+  - For example for app development, there is native and hybrid, and then there are many different hybrid frameworks. 
+  - Comparison: 
+    - Identify required **functions**, such as user regiter/login, database, messaging, image/video, ...
+    - Compare different options regarding to the functions: is it possible at all, how easy it is, how reliable it is, ...
+    - Each person pick **one fuction and compare it across options**.
+- Justify your choice
+
 ## First Iteration
 
 # Project Meeting 1 - 26 Oct 2017
