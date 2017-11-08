@@ -26,6 +26,25 @@ The repository for the final year project 2017
 
 ## First Iteration
 
+### Requirements
+
+- Find real users or company/organisation/charity that work with real users.
+- Get the requirements from the real users, not what you think.
+- The requirements should be technology independent, in most cases.
+
+### Design/Implement
+
+- Paper prototype/wireframe tool: 
+  - Pencil and paper
+  - Low fidelity: Balsamiq https://balsamiq.com/
+  - High fidelity: Just in mind: https://www.justinmind.com/
+  - Share the design: InVision https://www.invisionapp.com/
+
+### Evaluation/Feedback
+
+- Show user the paper prototype/wireframe and get feedback.
+- Revise the desgin and project scope accordingly.
+
 # Project Meeting 1 - 26 Oct 2017
 
 ## Project proposal
