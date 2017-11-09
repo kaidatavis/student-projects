@@ -24,6 +24,12 @@ The repository for the final year project 2017
     - Each person pick **one fuction and compare it across options**.
 - Justify your choice
 
+| Person | Technology option | User login and registration | Data storage | instant messaging | sharing of images/video |
+| ------------- | ------------- | ------------- |------------- |------------- |------------- |
+| | Native app - iOS  |   | | | | 
+| | Native app - Android  |  | | | | 
+| | Hybrid - Ionic  |  | | | | 
+
 ## First Iteration
 
 ### Requirements
