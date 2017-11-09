@@ -20,15 +20,26 @@ The repository for the final year project 2017
   - For example for app development, there is native and hybrid, and then there are many different hybrid frameworks. 
   - Comparison: 
     - Identify required **functions**, such as user regiter/login, database, messaging, image/video, ...
-    - Compare different options regarding to the functions: is it possible at all, how easy it is, how reliable it is, ...
+    - Compare different options regarding to the functions: is it possible at all, how easy it is to learn/program, how fast/secure/reliable it is, ...
     - Each person pick **one fuction and compare it across options**.
 - Justify your choice
 
-| Person | Technology option | User login and registration | Data storage | instant messaging | sharing of images/video |
-| ------------- | ------------- | ------------- |------------- |------------- |------------- |
-| | Native app - iOS  |   | | | | 
-| | Native app - Android  |  | | | | 
-| | Hybrid - Ionic  |  | | | | 
+| | User Interface | User login and registration | Data storage | instant messaging | sharing of images/video | Access API such as google maps and facebook| Access camera, GPS, and other hardware|
+| ----- | ----- | ----- | ----- | ----- | ---- | ----- | ----- |
+| **Who** | | | | | | | |
+| Web - no framework | | | | | | | |
+| Web - vue.js | | | | | | | |
+| Web - elm.js | | | | | | | |
+| Web - React | | | | | | | |
+| Web - Auglar | | | | | | | |
+| Hybrid app - Ionic | | | | | | | |
+| Hybrid app - React Native | | | | | | | |
+| Hybrid app - NativeScript | | | | | | | |
+| Hybrid app - PhoneGap/Cordova | | | | | | | |
+| Native app - Android | | | | | | | | 
+| Native app - iOS | | | | | | | |
+
+
 
 ## First Iteration
 
