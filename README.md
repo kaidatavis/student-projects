@@ -35,6 +35,7 @@ The repository for the final year project 2017
 ### Requirements
 
 - Find real users or company/organisation/charity that work with real users.
+  - Find someone local if possible: much easier for the communication.
 - Get the requirements from the real users, not what you think.
 - The requirements should be technology independent, in most cases.
 
