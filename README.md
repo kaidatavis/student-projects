@@ -24,20 +24,20 @@ The repository for the final year project 2017
     - Each person pick **one fuction and compare it across options**.
 - Justify your choice
 
-| | User Interface | User login and registration | Data storage | instant messaging | sharing of images/video | Access API such as google maps and facebook| Access camera, GPS, and other hardware|
-| ----- | ----- | ----- | ----- | ----- | ---- | ----- | ----- |
-| **Who** | | | | | | | |
-| Web - no framework | | | | | | | |
-| Web - vue.js | | | | | | | |
-| Web - elm.js | | | | | | | |
-| Web - React | | | | | | | |
-| Web - Auglar | | | | | | | |
-| Hybrid app - Ionic | | | | | | | |
-| Hybrid app - React Native | | | | | | | |
-| Hybrid app - NativeScript | | | | | | | |
-| Hybrid app - PhoneGap/Cordova | | | | | | | |
-| Native app - Android | | | | | | | | 
-| Native app - iOS | | | | | | | |
+| | User Interface (menu, button, etc.) | User login and registration | Data storage and sharing | instant messaging | API (google maps, facebook, etc.) | Camera, GPS, and other hardware|
+| ----- | ----- | ----- | ----- | ----- | ---- | ----- |
+| **Who** | | | | | | |
+| Web - no framework | | | | | | |
+| Web - vue.js | | | | | | |
+| Web - elm.js | | | | | | |
+| Web - React | | | | | | |
+| Web - Auglar | | | | | | |
+| Hybrid app - Ionic | | | | | | |
+| Hybrid app - React Native | | | | | | |
+| Hybrid app - NativeScript | | | | | | |
+| Hybrid app - PhoneGap/Cordova | | | | | | |
+| Native app - Android | | | | | | | 
+| Native app - iOS | | | | | | |
 
 
 
