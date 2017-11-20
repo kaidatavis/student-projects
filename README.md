@@ -1,5 +1,18 @@
 The repository for the final year project 2017
 
+# Project Meeting 3 - 23 Nov 2017
+
+# Literature Review - Progress Update
+- Literature review should be more or less finished. This is a good time to discuss if there is any issue or difficulty.
+- Everyone updates on:
+  - Any change on the project idea and/or scope and the reason;
+  - Any decision on development technology and the reason.
+- Results on the mobile app development technology survey.
+
+# First Iteration - Progress Update
+- Contacted any users, and what are their requirements?
+- Any questions about the requirments, design, and evaluation?
+
 # Project Meeting 2 - 9 Nov 2017
 
 ## Litearature Review
