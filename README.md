@@ -39,7 +39,7 @@ The repository for the final year project 2017
 
 | | User Interface (menu, button, etc.) | User login and registration | Data storage and sharing | instant messaging | API (google maps, facebook, etc.) | Camera, GPS, and other hardware|
 | ----- | ----- | ----- | ----- | ----- | ---- | ----- |
-| **Who** | Andreas | Abdul | Ondrej | | | |
+| **Who** | Andreas | Abdul | Ondrej | | Bogdan | |
 | Web - no framework | | | | | | |
 | Web - vue.js | | | | | | |
 | Web - elm.js | | | | | | |
