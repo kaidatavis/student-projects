@@ -1,15 +1,29 @@
 The repository for the final year project 2017
 
+# Project Meeting 4 - 15 Feb 2018
+
+## Progress Demonstration
+
+- Please prepare a short demo of the progress so far. 
+- This shoud be informal, and no more than 5 minutes.  
+- live demo if prefererred, but screen recording and screen shot are also fine.
+- This is a good practice for your viva demo
+
+## Questions and Answers
+
+- You can edit this page or email me if there is anything you want to discuss before the meeting, 
+- Otherwise I will try to answer your questions then. 
+
 # Project Meeting 3 - 23 Nov 2017
 
-# Literature Review - Progress Update
+## Literature Review - Progress Update
 - Literature review should be more or less finished. This is a good time to discuss if there is any issue or difficulty.
 - Everyone updates on:
   - Any change on the project idea and/or scope and the reason;
   - Any decision on development technology and the reason.
 - Results on the mobile app development technology survey.
 
-# First Iteration - Progress Update
+## First Iteration - Progress Update
 - Contacted any users, and what are their requirements?
 - Any questions about the requirments, design, and evaluation?
 
