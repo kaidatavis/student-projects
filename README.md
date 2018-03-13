@@ -1,5 +1,28 @@
 The repository for the final year project 2017
 
+# Project Meeting 5 (final) - 22 Mar 2018 (Room: HG06)
+
+The meeting will have two parts: 
+
+## Q&A session
+
+Anything related to project, especially the final report and viva.
+
+## Mock Viva
+
+A practice befor the actual viva. 
+
+- The actual viva is usally 30 minutes, with 20 minutes presentation & demo and 10 minute Q&A
+- The presentation (usually in ppt) covers everything about the project: from introduction and literature reveiw to implemantation and evaluation. Essentilly, it is an overview of your entire project in 15 minutes.
+- There is ususally a demo if the project produces some software/app/website. This is your chance to impress the examiners (about the quality of the project outcome), as it provides much more details than the screenshots in the final report. 
+- The presentation and demo should be no more than 20 minutes in total, which means about 10 ppt slides. You can mix the two, i.e., including demo during presentation, or do one after the other, e.g., slides first and then demo.
+- The last 10 minutes are for the examiner to ask questions. This can be to used to clarify things, ask for missing infomration, ensure you fully understand the work, etc.
+
+For the mock viva, 
+- The project doesn't have to be completed; practice with what you have;
+- Everyone can ask questions, not just Kai;
+- Everyone will provide feedback on how to improve afterwards. 
+
 # Project Meeting 4 - 15 Feb 2018
 
 ## Progress Demonstration
