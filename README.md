@@ -1,5 +1,37 @@
 The repository for the final year project 2017
 
+# Marking Schemes
+## Assessment for Final Report (CS)
+1. Abstract (Mark out of 3)
+2. Background and Literature: problem definition, literature review etc (Mark out of 5)
+3. Design: requirements analysis and design specifications (Mark out of 6) 
+4. Work done (Mark out of 8)
+5. Evaluation (Mark out of 8)
+6. Conclusion: with critical reflection on problem as defined (Mark out of 5)
+7. Presentation: Presentation of report and quality of written English (Mark out of 4)
+8. BCS criteria: Does the project satisfy the BCS exemption criteria (0 no, 1 yes)
+
+## Assessment for Viva Voce and Demonstration (CS)
+1. Quality of artefact: Is the artefact well designed, organised, and logically developed? Is the artefact sophisticated, polished, and elegant? Is the coding style advanced? How well does it meet its requirements in practice? Has it been evaluated sufficiently? (Mark out of 15)
+2. Presentation and understanding: Does the student understand all aspects of the work they have done (from requirements to evaluation?) Can they articulate and justify decisions they have made at all stages of the project. Can the student discuss other aspects of their work (e.g. background) (Mark out of 15)
+
+## Assessment for Final Report (IT)
+1. Abstract (Mark out of 3)
+2. Background and Literature: problem definition, literature review etc (Mark out of 5)
+3. Design: requirements analysis and design specifications (Mark out of 5) 
+4. Work done (Mark out of 8)
+5. Evaluation (Mark out of 5)
+6. Conclusion: with critical reflection on problem as defined (Mark out of 5)
+7. Presentation: Presentation of report and quality of written English (Mark out of 4)
+8. BCS criteria: Does the project satisfy the BCS exemption criteria (0 no, 1 yes)
+
+## Assessment for Viva Voice and Demonstration
+1. Viva (Mark out of 25)
+
+## Assessment for Artefact
+1. Artefact Evaluation: Does the artefact appropriately culminate the work for the time period and study done? (Mark out of 20)
+
+
 # Project Meeting 5 (final) - 22 Mar 2018 (Room: HG06)
 
 The meeting will have two parts: 
