@@ -1,4 +1,4 @@
-The repository for the final year project 2017
+The repository for the final year project (IT & CS)
 
 # Marking Schemes
 ## Assessment for Final Report (CS)
@@ -25,10 +25,10 @@ The repository for the final year project 2017
 7. Presentation: Presentation of report and quality of written English (Mark out of 4)
 8. BCS criteria: Does the project satisfy the BCS exemption criteria (0 no, 1 yes)
 
-## Assessment for Viva Voice and Demonstration
+## Assessment for Viva Voice and Demonstration (IT)
 1. Viva (Mark out of 25)
 
-## Assessment for Artefact
+## Assessment for Artefact (IT)
 1. Artefact Evaluation: Does the artefact appropriately culminate the work for the time period and study done? (Mark out of 20)
 
 
@@ -38,12 +38,20 @@ The meeting will have two parts:
 
 ## Q&A session
 
-Anything related to project, especially the final report and viva.
+Anything related to project, especially the evaluation, final report and viva.
 
-## Mock Viva
+## Evaluation
 
-A practice befor the actual viva. 
+- Recurit 10-15 people (the more the better);
+- Collect some demographic information, such as age, gender, education level, and other things that are important to your app;
+- Divide the participants into two groups: one using your app, one without;
+- Ask them to complete one or more tasks (exact the same for two groups);
+- Record some measurements: such as completion time, accuracy, and quality of the answer;
+- Record the process: screen capture video or video recording;
+- Compare the 'measurements' from the two groups to see if there is any difference;
+- Analyse the recording to see what caused the difference and how it happened;
 
+## Viva
 - The actual viva is usally 30 minutes, with 20 minutes presentation & demo and 10 minute Q&A
 - The presentation (usually in ppt) covers everything about the project: from introduction and literature reveiw to implemantation and evaluation. Essentilly, it is an overview of your entire project in 15 minutes.
 - There is ususally a demo if the project produces some software/app/website. This is your chance to impress the examiners (about the quality of the project outcome), as it provides much more details than the screenshots in the final report. 
@@ -53,7 +61,7 @@ A practice befor the actual viva.
 For the mock viva, 
 - The project doesn't have to be completed; practice with what you have;
 - Everyone can ask questions, not just Kai;
-- Everyone will provide feedback on how to improve afterwards. 
+- Everyone will provide feedback on how to improve the presentatio and demonstration afterwards. 
 
 # Project Meeting 4 - 15 Feb 2018
 
