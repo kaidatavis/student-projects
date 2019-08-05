@@ -158,7 +158,10 @@ For the mock viva,
 ## Project proposal
   - Introduction/background
   - The problem + overview/literature review: related software, app, website, and academic publications
-  - Your (project) idea
+  - Your (project) idea:
+    - The main hypothesis;
+    - The approach;
+    - The evaluation method;
   - Plan
     - 3 iterations: 
       - each iteration has requirements, design, implementation, and evaluation.
