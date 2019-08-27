@@ -200,6 +200,6 @@ Much better for JavaScript development than Brackets (http://brackets.io/), Subl
 
 ## Latex
 Use Latex instead of Word for all the reports: proposal, progress report, final report, and viva. 
-  - Learn Latex in 30 minutes: https://www.sharelatex.com/learn/Learn_LaTeX_in_30_minutes;
-  - More information on Latex: https://www.sharelatex.com/learn;
-  - Recommended editor (both are like Google Docs for Latex): Overleaf (https://www.overleaf.com/) and ShareLatex (https://www.sharelatex.com/).
+- Recommended editor: Overleaf (https://www.overleaf.com/), like Google Docs for Latex.
+- Learn Latex in 30 minutes: https://www.overleaf.com/learn/latex/Free_online_introduction_to_LaTeX_(part_1);
+- How to add references: https://www.overleaf.com/learn/how-to/Using_bibliographies_on_Overleaf;
