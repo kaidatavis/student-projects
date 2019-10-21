@@ -32,7 +32,7 @@ The repository for the final year project (IT & CS)
 1. Artefact Evaluation: Does the artefact appropriately culminate the work for the time period and study done? (Mark out of 20)
 
 
-# Project Meeting 5 (final) - 22 Mar 2018 (Room: HG06)
+# Project Meeting 5 (final) - final reprot & viva
 
 The meeting will have two parts: 
 
@@ -63,7 +63,7 @@ For the mock viva,
 - Everyone can ask questions, not just Kai;
 - Everyone will provide feedback on how to improve the presentatio and demonstration afterwards. 
 
-# Project Meeting 4 - 15 Feb 2018
+# Project Meeting 4 - second iteration update
 
 ## Progress Demonstration
 
@@ -77,7 +77,7 @@ For the mock viva,
 - You can edit this page or email me if there is anything you want to discuss before the meeting, 
 - Otherwise I will try to answer your questions then. 
 
-# Project Meeting 3 - 23 Nov 2017
+# Project Meeting 3 - first iteration update
 
 ## Literature Review - Progress Update
 - Literature review should be more or less finished. This is a good time to discuss if there is any issue or difficulty.
@@ -90,7 +90,7 @@ For the mock viva,
 - Contacted any users, and what are their requirements?
 - Any questions about the requirments, design, and evaluation?
 
-# Project Meeting 2 - 9 Nov 2017
+# Project Meeting 2 - literature review
 
 ## Litearature Review
 
@@ -145,7 +145,7 @@ For the mock viva,
 - Paper prototype/wireframe tool: 
   - Pencil and paper
   - Low fidelity: Balsamiq https://balsamiq.com/
-  - High fidelity: Just in mind: https://www.justinmind.com/
+  - High fidelity: ***Figma***: https://www.figma.com or Just in mind: https://www.justinmind.com/
   - Share the design: InVision https://www.invisionapp.com/
 
 ### Evaluation/Feedback
@@ -153,7 +153,7 @@ For the mock viva,
 - Show user the paper prototype/wireframe and get feedback.
 - Revise the desgin and project scope accordingly.
 
-# Project Meeting 1 - 26 Oct 2017
+# Project Meeting 1 - proposal
 
 ## Project proposal
   - Introduction/background
