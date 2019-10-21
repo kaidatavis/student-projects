@@ -116,10 +116,8 @@ For the mock viva,
 
 | | User Interface (menu, button, etc.) | User login and registration | Data storage and sharing | instant messaging | API (google maps, facebook, etc.) | Camera, GPS, and other hardware|
 | ----- | ----- | ----- | ----- | ----- | ---- | ----- |
-| **Who** | Andreas | Abdul | Ondrej | Alvaro | Bogdan | |
 | Web - no framework | | | | | | |
 | Web - vue.js | | | | | | |
-| Web - elm.js | | | | | | |
 | Web - React | | | | | | |
 | Web - Auglar | | | | | | |
 | Hybrid app - Ionic | | | | | | |
