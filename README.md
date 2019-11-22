@@ -92,6 +92,8 @@ For the mock viva,
 
 # Project Meeting 2 - literature review
 
+Due week 12.
+
 ## Litearature Review
 
 ### Existing Work
@@ -101,7 +103,6 @@ For the mock viva,
 - Include academic publications to support your argument: 
   - IEEE Xplore: http://ieeexplore.ieee.org/Xplore/home.jsp
   - ACM Digital Library: https://dl.acm.org/
-- Use Zotero
 
 ### Development Technologies
 
@@ -111,23 +112,22 @@ For the mock viva,
   - Comparison: 
     - Identify required **functions**, such as user regiter/login, database, messaging, image/video, ...
     - Compare different options regarding to the functions: is it possible at all, how easy it is to learn/program, how fast/secure/reliable it is, ...
-    - Each person pick **one fuction and compare it across options**.
 - Justify your choice
 
-| | User Interface (menu, button, etc.) | User login and registration | Data storage and sharing | instant messaging | API (google maps, facebook, etc.) | Camera, GPS, and other hardware|
-| ----- | ----- | ----- | ----- | ----- | ---- | ----- |
-| Web - no framework | | | | | | |
-| Web - vue.js | | | | | | |
-| Web - React | | | | | | |
-| Web - Auglar | | | | | | |
-| Hybrid app - Ionic | | | | | | |
-| Hybrid app - React Native | | | | | | |
-| Hybrid app - NativeScript | | | | | | |
-| Hybrid app - PhoneGap/Cordova | | | | | | |
-| Native app - Android | | | | | | | 
-| Native app - iOS | | | | | | |
-
-
+### Reference
+- Two parts: citation in the main text and the references at the end of reprot.
+- Use a tool; don't create reference manually.
+- If you are using Latex, 
+  - follow this [overleaf bibliography tutorial](https://www.overleaf.com/learn/latex/Bibliography_management_in_LaTeX);
+  - watch my [latex tutorial](https://youtu.be/PqW8myobrPE), which includes references.
+- If you are use Windows, use [Mendeley](https://www.mendeley.com/) or (Zotero](https://www.zotero.org/). 
+  - use their browser extension to automatically add reference: 
+    - [Mendeley web importer](https://www.mendeley.com/reference-management/web-importer)
+    - [Zotero connector](https://chrome.google.com/webstore/detail/zotero-connector/ekhagklcjbdpajgpjgmbionohlpdbjgc?hl=en)
+    - These can export the papers to bibtex format, if you use Latex.
+  - use their Microsoft Word plugin to add references to report
+    - [Mendeley Cite](https://www.mendeley.com/reference-management/mendeley-cite)
+    - [Zotero word processor plugin](https://www.zotero.org/support/word_processor_integration)
 
 ## First Iteration
 
@@ -143,7 +143,7 @@ For the mock viva,
 - Paper prototype/wireframe tool: 
   - Pencil and paper
   - Low fidelity: Balsamiq https://balsamiq.com/
-  - High fidelity: ***Figma***: https://www.figma.com or Just in mind: https://www.justinmind.com/
+  - High fidelity: ***Figma***: https://www.figma.com
   - Share the design: InVision https://www.invisionapp.com/
 
 ### Evaluation/Feedback
