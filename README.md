@@ -120,7 +120,7 @@ Due week 12.
 - If you are using Latex, 
   - follow this [overleaf bibliography tutorial](https://www.overleaf.com/learn/latex/Bibliography_management_in_LaTeX);
   - watch my [latex tutorial](https://youtu.be/PqW8myobrPE), which includes references.
-- If you are use Windows, use [Mendeley](https://www.mendeley.com/) or (Zotero](https://www.zotero.org/). 
+- If you are use Windows, use [Mendeley](https://www.mendeley.com/) or [Zotero](https://www.zotero.org/). 
   - use their browser extension to automatically add reference: 
     - [Mendeley web importer](https://www.mendeley.com/reference-management/web-importer)
     - [Zotero connector](https://chrome.google.com/webstore/detail/zotero-connector/ekhagklcjbdpajgpjgmbionohlpdbjgc?hl=en)
