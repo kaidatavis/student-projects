@@ -1,3 +1,9 @@
+# Project ideas
+
+1. Machine learing provenance: visualise the execution log in Jupyter Notebook (the data is captured using ProvBook: https://sheeba-samuel.github.io/REPRODUCE-ME/research/provbook.html)
+1. User study on trust towards machine learning: understand the factor that affect people's trusts towards machine learning recommendations.
+1. User study on user behaviour change caused by provenance: whether/how the users behave differently if they know that their actions are recorded.
+
 # Project Meeting 1 - Proposal
 
 ## Project proposal
