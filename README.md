@@ -1,5 +1,6 @@
 # Project ideas
 
+1. How to record the 'why': many rules/decisions are recorded without the 'why'. Overtime, the reasons become no longer valid, while the decisions/rules are still being followed, sometimes blindly. This project aims to see if there is any efficient way to record the 'why' that will not introduce too much extra work and can be easily used by other applications. 
 1. Machine learing provenance: visualise the execution log in Jupyter Notebook (the data is captured using ProvBook: https://sheeba-samuel.github.io/REPRODUCE-ME/research/provbook.html)
 1. User study on trust towards machine learning: understand the factor that affect people's trusts towards machine learning recommendations.
 1. User study on user behaviour change caused by provenance: whether/how the users behave differently if they know that their actions are recorded.
