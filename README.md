@@ -51,9 +51,11 @@ Recommended: Visual Studio Code https://code.visualstudio.com/.
 Much better for JavaScript development than Brackets (http://brackets.io/), Sublime Text (https://www.sublimetext.com/), or Notepad++ (https://notepad-plus-plus.org/)
 
 ## Latex
-Use Latex instead of Word for all the reports: proposal, progress report, final report, and viva. 
+Use Latex instead of Word for all the reports: proposal, progress report, final report, and viva.
+- [Why use Latex (Overleaf)?](https://medium.com/@marko_kovic/why-i-write-with-latex-and-why-you-should-too-ba6a764fadf9)
 - Recommended editor: Overleaf (https://www.overleaf.com/), like Google Docs for Latex.
 - Learn Latex in 30 minutes: https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes;
+- The video recording of my overleaf tutorial: https://youtu.be/PqW8myobrPE
 - How to add references: https://www.overleaf.com/learn/latex/Bibliography_management_in_LaTeX;
 
 # Project Meeting 2 - literature review
