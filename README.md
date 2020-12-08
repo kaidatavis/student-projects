@@ -58,7 +58,7 @@ Use Latex instead of Word for all the reports: proposal, progress report, final 
 - The video recording of my overleaf tutorial: https://youtu.be/PqW8myobrPE
 - How to add references: https://www.overleaf.com/learn/latex/Bibliography_management_in_LaTeX;
 
-# Project Meeting 2 - literature review
+# Project Meeting 2 - interim report: literature review and first iteration
 
 Due week 12.
 
