@@ -88,7 +88,8 @@ Due week 12.
 - If you are using Latex, 
   - follow this [overleaf bibliography tutorial](https://www.overleaf.com/learn/latex/Bibliography_management_in_LaTeX);
   - watch my [latex tutorial](https://youtu.be/PqW8myobrPE), which includes references.
-- If you are use Windows, use [Zotero](https://www.zotero.org/). 
+- If you are not using Latex (Windows, Mac, Linux), use [Zotero](https://www.zotero.org/). 
+  - This is a recording of me showing how to use Zotero: https://youtu.be/R_5bjdE-kSw
   - use their browser extension to automatically add reference: 
     - [Zotero connector](https://chrome.google.com/webstore/detail/zotero-connector/ekhagklcjbdpajgpjgmbionohlpdbjgc?hl=en)
     - These can export the papers to bibtex format, if you use Latex.
