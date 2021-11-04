@@ -35,7 +35,7 @@
     - If you absolutely have to have a Gantt Chart: https://chrome.google.com/webstore/search/gantt%20chart 
   - Reference
     - Reference and citations: http://libguides.mdx.ac.uk/c.php?g=322119&p=2155071
-    - Software: https://www.zotero.org/
+    - Software: https://www.zotero.org/ ([a video tutorial on how to use Zotero](https://youtu.be/R_5bjdE-kSw))
 
 ## GitHub.com
 Use github.com for project file and code (Kai)
