@@ -9,45 +9,45 @@ Below are more ideas. They might be overlap with the ones on my website as the i
 1. User study on trust towards machine learning: understand the factor that affect people's trusts towards machine learning recommendations.
 1. User study on user behaviour change caused by provenance: whether/how the users behave differently if they know that their actions are recorded.
 
-# Project Meeting 1 - Proposal
+# Project plan/proposal
 
-## Project proposal
-  - Introduction/background
-  - The problem + overview/literature review: related software, app, website, and academic publications
-  - Your project idea:
-    - The main hypothesis;
-    - The approach;
-    - The evaluation method;
-  - Plan
-    - 3 iterations: 
-      - each iteration has requirements, design, implementation, and evaluation.
-      - first iteration: paper prototype
-      - second iteration: working prototype with minimal function
-      - third iteration: fully working prototype
-    - A list of deliverables and deadlines are fine (example below)
+Below is a general structure, and please refer to the handbook for specific structure/requirements.
+
+- Introduction/background
+- The problem
+  - literature review (academic publications)
+  - related software, app, website, and other resources
+- Your project idea:
+  - The main hypothesis;
+  - The approach;
+  - The evaluation method;
+- Plan
+  - Agile and iterative 
+    - each iteration has requirements, design, implementation, and evaluation.
+  - For example 3 iterations: 
+    - first iteration: paper prototype
+    - second iteration: working prototype with minimal function
+    - third iteration: fully working prototype
+  - A list of deliverables and deadlines are fine (example below)
     
     | Deadline | Milestone | Deliverable |
     | ---- | --------- | ----------- |
-    | Week 5 | Submit project proposal | Project proposal|
-    | Week 8 | Complete literature review | Literature review report|
-    | Week 11 | Complete first iteration | Paper prototype|
-    | Week 12 | Submit interim report | Interim report|
-    | Week 16 | Complete second iteration | Working prototype|
-    | Week 20 | Complete third iteration | Final prototype|
-    | Week 24 | Submit final report | Final report|
+    | Week m1 | Submit project proposal | Project proposal|
+    | Week m2 | Complete literature review | Literature review report|
+    | Week m3 | Complete first iteration | Paper prototype|
+    | Week m4 | Complete second iteration | Working prototype|
+    | Week m5 | Complete third iteration | Final prototype|
+    | Week m6 | Complete final report | Final report|
     
-    - If you absolutely have to have a Gantt Chart: https://chrome.google.com/webstore/search/gantt%20chart 
-  - Reference
-    - Reference and citations: http://libguides.mdx.ac.uk/c.php?g=322119&p=2155071
-    - Software: https://www.zotero.org/ ([a video tutorial on how to use Zotero](https://youtu.be/R_5bjdE-kSw))
 
 ## GitHub.com
-Use github.com for project file and code (Kai)
+Use github.com for project file and code
+  - 'readme.md' (markdonw) for meeting notes
+  - 'literature review' folder for papers and discussions
   - 'Code': report and implementation code
+    - How to use git: https://git-scm.com/book/en/v2 (first 2 chapters)
   - 'Issues': tasks and coding issue
-  - 'Projects': planning and project management
-  - 'Wiki': notes, meetings, reports, and any other documentation
-  - How to use git: https://git-scm.com/book/en/v2 (first 2 chapters)
+  - 'Projects': planning and project management  
 
 ## Code editor (IDE): 
 Recommended: Visual Studio Code https://code.visualstudio.com/. 
@@ -62,13 +62,9 @@ Use Latex instead of Word for all the reports: proposal, progress report, final 
 - The video recording of my overleaf tutorial: https://youtu.be/PqW8myobrPE
 - How to add references: https://www.overleaf.com/learn/latex/Bibliography_management_in_LaTeX;
 
-# Project Meeting 2 - interim report: literature review and first iteration
+# Litearature Review
 
-Due week 12.
-
-## Litearature Review
-
-### Existing Work
+## Existing Work
 - Needs to be much more **complete** than the litearture review in the project proposal;
 - Cover different media: app, website, service, organisation, physical print/product ...
 - Focus on the most relevant: help you to narrow down your scope.
@@ -76,7 +72,7 @@ Due week 12.
   - IEEE Xplore: http://ieeexplore.ieee.org/Xplore/home.jsp
   - ACM Digital Library: https://dl.acm.org/
 
-### Development Technologies
+## Development Technologies
 
 - Be **open** about what form the project prototype will be: app, website, service, organisation, physical print/product ...
 - Research different ways of implementation:
@@ -86,7 +82,7 @@ Due week 12.
     - Compare different options regarding to the functions: is it possible at all, how easy it is to learn/program, how fast/secure/reliable it is, ...
 - Justify your choice
 
-### Reference
+## Reference
 - Two parts: citation in the main text and the references at the end of reprot.
 - Use a tool; don't create reference manually.
 - If you are using Latex, 
@@ -100,9 +96,9 @@ Due week 12.
   - use their Microsoft Word plugin to add references to report
     - [Zotero word processor plugin](https://www.zotero.org/support/word_processor_integration)
 
-## First Iteration
+# First Iteration
 
-### Requirements
+## Requirements
 
 - Find real users or company/organisation/charity that work with real users.
   - Find someone local if possible: much easier for the communication.
