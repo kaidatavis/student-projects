@@ -53,13 +53,30 @@ It is not always a marked component, but very important to ensure a successful p
     
 
 ## GitHub.com
-Use github.com for project file and code
+Use github.com (or GitLab) for project file and code, so you 
+1. will never lose your code (because of corrupted USB or hard drive), and
+2. can easily show it to other people (e.g.,as part of your work portfolio for job application).
+
+If you never use git before: 
+- concepts and commandline tool (git): https://git-scm.com/book/en/v2 (first 2 chapters)
+- github (a website) tutorial: https://docs.github.com/en/get-started/quickstart/hello-world
+
+You probably want to check out [GitHub Student Developer Pack](https://education.github.com/pack) that provides features that you will need to pay otherwise.
+
+How to use different GitHub features for the project:
   - 'readme.md' (markdonw) for meeting notes
-  - 'literature review' folder for papers and discussions
-  - 'Code': report and implementation code
-    - How to use git: https://git-scm.com/book/en/v2 (first 2 chapters)
-  - 'Issues': tasks and coding issue
+    - [This guide](https://gist.github.com/cuonggt/9b7d08a597b167299f0d) can get you started if you never used markdown before 
+    - It is similar to HTML, but much simpler. Also very useful for programing.
+  - 'Issues': todo list/tasks and coding issue
+    - Each 'issue' is a task to complete  
   - 'Projects': planning and project management  
+    - You can create a kanban board in 'project' (similar to Trello), 
+    - create "milestones', e.g., one for each iteration
+    - add 'issues' to 'milestones', and set deadline
+  - 'literature review' folder for papers and discussions
+    - Not ideal for storing paper PDF files, but you can
+    - use a markdown file in this folder to summarise the papers collected and discuss their stregnth and weakneess.
+
 
 ## Code editor (IDE): 
 Recommended: Visual Studio Code https://code.visualstudio.com/. 
