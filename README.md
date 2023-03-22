@@ -64,19 +64,26 @@ If you never use git before:
 You probably want to check out [GitHub Student Developer Pack](https://education.github.com/pack) that provides features that you will need to pay otherwise.
 
 How to use different GitHub features for the project:
-  - 'readme.md' (markdonw) for meeting notes
+  - The repository is public, so don't upload any data that you don't want to share
+    - You can create a separate private repository for sensitve data. Follow the 'data management plan' of your ethics application.   
+  - Use [this (wiki) page](https://github.com/kaidatavis/student-projects/wiki/Meeting-Notes) for meeting notes
+    - Follow the meeting notes/minutes template there and the latest one on top.
     - [This guide](https://gist.github.com/cuonggt/9b7d08a597b167299f0d) can get you started if you never used markdown before 
-    - It is similar to HTML, but much simpler. Also very useful for programing.
+      - It is similar to HTML, but much simpler. Also very useful for programing.
   - 'Issues': todo list/tasks and coding issue
-    - Each 'issue' is a task to complete  
-  - 'Projects': planning and project management  
+    - Each 'issue' is a task to complete (action from the meeting)
+    - Assign an issue to the person that is responsible 
+  - 'Projects': planning and project management (this has been updated recently, so points below may be updated) 
     - You can create a kanban board in 'project' (similar to Trello), 
     - create "milestones', e.g., one for each iteration
     - add 'issues' to 'milestones', and set deadline
-  - 'literature review' folder for papers and discussions
-    - Not ideal for storing paper PDF files, but you can
-    - use a markdown file in this folder to summarise the papers collected and discuss their stregnth and weakneess.
-
+  - Each of you will have a top-level folder in the repository for your project
+    - Please send me your github account username or email, so I can add you to the repository.
+    - Please name your folder like this: year-degree-name-title (e.g., 2023-msc-kaixu-visual-analytics-for-sensemaking)
+    - Use the your folder for your code and other things like notes (in markdown)
+    - Include in your folder a 'readme.md' file to list all the things in your folder (e.g., which subfolder contains what) and other information such as how to run your code.
+    - Don't include large files as everyone else will need to download them as well (when they do a 'pull' of the repository).
+    - There will be top-level folder(s) for share resouces such as datasets.
 
 ## Code editor (IDE): 
 Recommended: Visual Studio Code https://code.visualstudio.com/. 
@@ -151,6 +158,7 @@ Besides search, it can be very useful to just go through the latest papers from 
     - Use Zotero tags to group the papers (don't just use all the tags Zotero automatically created)
     - Don't upload the full paper PDF file (the free zotero group library has a very limited storage size)
     - Do include a link to the public/free online full paper pdf if there is one using the 'notes' section in Zotero.
+    - Use the 'notes' section to summarise what the paper is about and discuss its stregnth and weakneess.
 - If you are using Latex, 
   - follow this [overleaf bibliography tutorial](https://www.overleaf.com/learn/how-to/Using_bibliographies_on_Overleaf);
   - watch my [latex tutorial](https://youtu.be/PqW8myobrPE), which includes references.
