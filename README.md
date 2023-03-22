@@ -1,9 +1,8 @@
 # Project ideas
 
-Some project ideas are online here: https://kaixu.me/projects/
+The genral project ideas are online at: https://kaixu.me/projects/. Below are some more specific ideas:
 
-Below are more ideas. They might be overlap with the ones on my website as the ideas are evolving continously.
-
+1. A user study to compare the tree/hierarchy visualisation first used in SenesMap than the latest that is availalbe in popular browsers, such as tab grouping and [chrome 'journey'](https://blog.google/products/chrome/finding-answers-gets-better-chrome/).
 1. How to record the 'why': many rules/decisions are recorded without the 'why'. Overtime, the reasons become no longer valid, while the decisions/rules are still being followed, sometimes blindly. This project aims to see if there is any efficient way to record the 'why' that will not introduce too much extra work and can be easily used by other applications. 
 1. Machine learing provenance: visualise the execution log in Jupyter Notebook (the data is captured using ProvBook: https://sheeba-samuel.github.io/REPRODUCE-ME/research/provbook.html)
 1. User study on trust towards machine learning: understand the factor that affect people's trusts towards machine learning recommendations.
