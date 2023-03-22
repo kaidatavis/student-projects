@@ -53,7 +53,7 @@ It is not always a marked component, but very important to ensure a successful p
     
 
 ## GitHub.com
-Use github.com (or GitLab) for project file and code, so you 
+We will this shared github reporsitory for project file and code, so you 
 1. will never lose your code (because of corrupted USB or hard drive), and
 2. can easily show it to other people (e.g.,as part of your work portfolio for job application).
 
@@ -128,7 +128,7 @@ Besides search, it can be very useful to just go through the latest papers from 
 - Have a quick look of the title and/or abstract to check if the paper is relevant or not
   - many papers can be excluded by the title alone
   - save the paper in zotero if it seems relevant after reading the abstract
-- We will use a shared zotero group to collect and share all the relevant papers found
+- We will use a shared zotero group to collect and share all the relevant papers found (more below in the 'reference' section)
 
 
 ## Development Technologies
@@ -149,6 +149,8 @@ Besides search, it can be very useful to just go through the latest papers from 
   - We will also use zotero to share relevant papers. 
     - Add all the relevant papers to this Zotero Group Library: [Sensemaking and human-AI Teaming](https://www.zotero.org/groups/4762437/sensemaking_and_human-ai_teaming)
     - Use Zotero tags to group the papers (don't just use all the tags Zotero automatically created)
+    - Don't upload the full paper PDF file (the free zotero group library has a very limited storage size)
+    - Do include a link to the public/free online full paper pdf if there is one using the 'notes' section in Zotero.
 - If you are using Latex, 
   - follow this [overleaf bibliography tutorial](https://www.overleaf.com/learn/how-to/Using_bibliographies_on_Overleaf);
   - watch my [latex tutorial](https://youtu.be/PqW8myobrPE), which includes references.
