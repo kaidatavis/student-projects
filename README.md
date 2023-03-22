@@ -117,9 +117,9 @@ Recommended: Use Latex instead of Word for all the reports: proposal, progress r
   - You can also get an idea of how good a journal or conference is from its 'impact factor' (has different names) such as the 'h5' metrics used by [Google](https://scholar.google.co.uk/citations?view_op=top_venues&hl=en&vq=eng) or the 'impact score' by [research.com](https://research.com/conference-rankings/computer-science).
 
 For this project, you are likely to find good-quality related work from these journals and conference
- - IEEE Transactions on Visualization and Computer Graphics [IEEE TVCG](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=2945)
+ - IEEE Transactions on Visualization and Computer Graphics ([IEEE TVCG](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=2945))
  - [Computer Graphics Forum](https://onlinelibrary.wiley.com/journal/14678659)
- - ACM conference on human factors in computing systems [ACM CHI](https://dl.acm.org/conference/chi)
+ - ACM conference on human factors in computing systems ([ACM CHI](https://dl.acm.org/conference/chi))
 
 Besides search, it can be very useful to just go through the latest papers from these journals and conferences
 - Because relevant papers do not necessarily include the same keywords (a paper about analysing user behaviours may not have the term 'sensemaking')
@@ -144,6 +144,11 @@ Besides search, it can be very useful to just go through the latest papers from 
 ## Reference
 - Two parts: citation in the main text and the references at the end of reprot.
 - Use a tool; don't create reference manually.
+  - Recommended: zotero (see details below)
+  - Use zotero for collecting and inserting citations/references
+  - We will also use zotero to share relevant papers. 
+    - Add all the relevant papers to this Zotero Group Library: [Sensemaking and human-AI Teaming](https://www.zotero.org/groups/4762437/sensemaking_and_human-ai_teaming)
+    - Use Zotero tags to group the papers (don't just use all the tags Zotero automatically created)
 - If you are using Latex, 
   - follow this [overleaf bibliography tutorial](https://www.overleaf.com/learn/how-to/Using_bibliographies_on_Overleaf);
   - watch my [latex tutorial](https://youtu.be/PqW8myobrPE), which includes references.
