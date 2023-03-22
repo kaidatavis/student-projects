@@ -10,19 +10,32 @@ The genral project ideas are online at: https://kaixu.me/projects/. Below are so
 
 # Project plan/proposal
 
-Below is a general structure, and please refer to the handbook for specific structure/requirements.
+Below is a general structure, and please refer to the moodle page for your project module for specific format/requirements. If there is any difference, always follow the instructions from the module page.
 
-- Introduction/background
-- The problem
-  - literature review (academic publications)
-  - related software, app, website, and other resources
+It is not always a marked component, but very important to ensure a successful project. Think of it as a tool to hellp you think ahead and plan. Also, you will reuse most of it for the final report later.
+
+- Introduction/background: the general problem area, such as using machine learning to support sensemaking
+- The problem: the specific problem that you want to improve. For example, the exsting recommendations made by machine learning models are not very good.
+  - literature review (academic publications): what academics have done on this problem. More details in the literature review section below.
+  - related software, app, website, and other resources: some of the related efforts are not published in an academic paper. For example, not all the recommendaiton algorithms are discussed in a paper.
+  - The main goal here is to set your work in the context of existing works: what is the gap/missing piece.
 - Your project idea:
-  - The main hypothesis;
-  - The approach;
-  - The evaluation method;
+  - The main hypothesis, e.g., using large language models can improve the quality of recommendations
+  - The approach, e.g.,
+    - who are your targeted users? and what are their use case (i.e., what task will they use your tool for)?
+    - what large language model do you plan to use? why do you choose it?
+    - how do you obtain the model? do you have the hardware needed to run the model?
+    - will you need to retrain/update the model? do you have the labeled data for this? do you have hardware required for this?
+    - ... 
+  - The evaluation method (following the same example):
+    - what is the definition of 'quality' and how do you measure it?
+    - do you plan to talk to/interview your users to understand their requirements?
+    - do you plan to do any user evaluations?
+    - ... 
 - Plan
   - Agile and iterative 
     - each iteration has requirements, design, implementation, and evaluation.
+    - the earlier iteration will focus more on requirements and design, and the later iteration will be more on implementaiton.
   - For example 3 iterations: 
     - first iteration: paper prototype
     - second iteration: working prototype with minimal function
@@ -31,12 +44,12 @@ Below is a general structure, and please refer to the handbook for specific stru
     
     | Deadline | Milestone | Deliverable |
     | ---- | --------- | ----------- |
-    | Week m1 | Submit project proposal | Project proposal|
-    | Week m2 | Complete literature review | Literature review report|
-    | Week m3 | Complete first iteration | Paper prototype|
-    | Week m4 | Complete second iteration | Working prototype|
-    | Week m5 | Complete third iteration | Final prototype|
-    | Week m6 | Complete final report | Final report|
+    | Week ? | Submit project proposal | Project proposal|
+    | Week ? | Complete literature review | Literature review report|
+    | Week ? | Complete first iteration | Paper prototype|
+    | Week ? | Complete second iteration | Working prototype|
+    | Week ? | Complete third iteration | Final prototype|
+    | Week ? | Complete final report | Final report|
     
 
 ## GitHub.com
