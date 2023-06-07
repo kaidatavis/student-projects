@@ -7,6 +7,16 @@ The genral project ideas are online at: https://kaixu.me/projects/. Below are so
 1. Machine learing provenance: visualise the execution log in Jupyter Notebook (the data is captured using ProvBook: https://sheeba-samuel.github.io/REPRODUCE-ME/research/provbook.html)
 1. User study on trust towards machine learning: understand the factor that affect people's trusts towards machine learning recommendations.
 1. User study on user behaviour change caused by provenance: whether/how the users behave differently if they know that their actions are recorded.
+    
+# Readings
+## For all project
+- [Survey on the Analysis of User Interactions and Visualization Provenance](https://eprints.mdx.ac.uk/30220/6/v39i3pp757-783.pdf)
+  - Provide the background and overview of existing work.
+  - It has a [website](https://provenance-survey.caleydo.org/)
+
+## If you will work on the projection visualisation of provenance vector sequence ([project page](https://kaixu.me/2022/05/23/visualising-the-sensemaking-space/))
+- [Provectories: Embedding-based Analysis of Interaction Provenance Data](https://ieeexplore.ieee.org/document/9652041)
+  - [project webpage](https://kaixu.me/2021/11/23/provectories-embedding-based-analysis-of-interaction-provenance-data/)
 
 # Project plan/proposal
 
@@ -51,6 +61,7 @@ It is not always a marked component, but very important to ensure a successful p
     | Week ? | Complete third iteration | Final prototype|
     | Week ? | Complete final report | Final report|
     
+# Software and programming
 
 ## GitHub.com
 We will this shared github reporsitory for project file and code, so you 
@@ -104,11 +115,7 @@ Recommended: Use Latex instead of Word for all the reports: proposal, progress r
 - The video recording of my overleaf tutorial: https://youtu.be/PqW8myobrPE
 - How to add references: https://www.overleaf.com/learn/how-to/Using_bibliographies_on_Overleaf
 
-# Readings
-## For all project
-- [Survey on the Analysis of User Interactions and Visualization Provenance](https://eprints.mdx.ac.uk/30220/6/v39i3pp757-783.pdf)
-  - Provide the background and overview of existing work.
-  - It has a [website](https://provenance-survey.caleydo.org/)
+
 
 # Litearature Review
 
