@@ -104,6 +104,12 @@ Recommended: Use Latex instead of Word for all the reports: proposal, progress r
 - The video recording of my overleaf tutorial: https://youtu.be/PqW8myobrPE
 - How to add references: https://www.overleaf.com/learn/how-to/Using_bibliographies_on_Overleaf
 
+# Readings
+## For all project
+- [Survey on the Analysis of User Interactions and Visualization Provenance](https://eprints.mdx.ac.uk/30220/6/v39i3pp757-783.pdf)
+  - Provide the background and overview of existing work.
+  - It has a [website](https://provenance-survey.caleydo.org/)
+
 # Litearature Review
 
 ## Existing Work
