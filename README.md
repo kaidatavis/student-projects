@@ -1,22 +1,37 @@
-# Project ideas
+# Project ideas and readings
 
-The genral project ideas are online at: https://kaixu.me/projects/. Below are some more specific ideas:
+## For all projects
 
-1. A user study to compare the tree/hierarchy visualisation first used in SenesMap than the latest that is availalbe in popular browsers, such as tab grouping and [chrome 'journey'](https://blog.google/products/chrome/finding-answers-gets-better-chrome/).
+### Background
+- The genral project ideas are online at: https://kaixu.me/projects/. 
+
+### Reading
+- [Survey on the Analysis of User Interactions and Visualization Provenance](https://eprints.mdx.ac.uk/30220/6/v39i3pp757-783.pdf)
+  - Provide the background and overview of existing work.
+  - It has a [website](https://provenance-survey.caleydo.org/)
+
+## Projection of provenance vector sequence 
+### Background
+- https://kaixu.me/2022/05/23/visualising-the-sensemaking-space/
+
+### Reading
+- [Provectories: Embedding-based Analysis of Interaction Provenance Data](https://ieeexplore.ieee.org/document/9652041)
+  - [project webpage](https://kaixu.me/2021/11/23/provectories-embedding-based-analysis-of-interaction-provenance-data/)
+  
+### Ideas
+- Visualise the online sensemaking provenance as vector sequences, i.e., apply provectories to browser history data;
+- Visualise the Jupyter provenance as vector sequences, i.e., apply provectories to jupyter user log;
+- Improve the vector sequence visualisation so it becomes easier to see patterns and understand what users are doing.
+
+1. A user study to compare the tree/hierarchy visualisation first used in SenesMap against the latest that is availalbe in popular browsers, such as tab grouping and [chrome 'journey'](https://blog.google/products/chrome/finding-answers-gets-better-chrome/).
 1. How to record the 'why': many rules/decisions are recorded without the 'why'. Overtime, the reasons become no longer valid, while the decisions/rules are still being followed, sometimes blindly. This project aims to see if there is any efficient way to record the 'why' that will not introduce too much extra work and can be easily used by other applications. 
 1. Machine learing provenance: visualise the execution log in Jupyter Notebook (the data is captured using ProvBook: https://sheeba-samuel.github.io/REPRODUCE-ME/research/provbook.html)
 1. User study on trust towards machine learning: understand the factor that affect people's trusts towards machine learning recommendations.
 1. User study on user behaviour change caused by provenance: whether/how the users behave differently if they know that their actions are recorded.
     
-# Readings
-## For all project
-- [Survey on the Analysis of User Interactions and Visualization Provenance](https://eprints.mdx.ac.uk/30220/6/v39i3pp757-783.pdf)
-  - Provide the background and overview of existing work.
-  - It has a [website](https://provenance-survey.caleydo.org/)
 
-## If you will work on the projection visualisation of provenance vector sequence ([project page](https://kaixu.me/2022/05/23/visualising-the-sensemaking-space/))
-- [Provectories: Embedding-based Analysis of Interaction Provenance Data](https://ieeexplore.ieee.org/document/9652041)
-  - [project webpage](https://kaixu.me/2021/11/23/provectories-embedding-based-analysis-of-interaction-provenance-data/)
+
+
 
 # Project plan/proposal
 
