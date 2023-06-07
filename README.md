@@ -21,12 +21,13 @@
 ### Ideas
 - Visualise the online sensemaking provenance as vector sequences, i.e., apply provectories to browser history data;
 - Visualise the Jupyter provenance as vector sequences, i.e., apply provectories to jupyter user log;
-  - You should go through the readings for 'Project: Jupyter Extension'
+  - You should also go through the [readings for 'Project: Jupyter Extension'](https://github.com/kaidatavis/student-projects/blob/master/README.md#reading-2)
 - Improve the vector sequence visualisation so it becomes easier to see patterns and understand what users are doing.
+  - You should also go through the [readings for 'project: browser extension'](https://github.com/kaidatavis/student-projects/edit/master/README.md#reading-3)
 
 ## Prject: Jupyter extension
 ### Background
-- https://kaixu.me/2021/01/31/interactive-learning-for-document-coding/
+- [Webpage](https://kaixu.me/2021/01/31/interactive-learning-for-document-coding/)
 
 ### Reading 
 - [Towards Effective Foraging by Data Scientists to Find Past Analysis Choices](https://dl.acm.org/doi/10.1145/3290605.3300322)
@@ -35,11 +36,25 @@
 ### Idea 
 - Capture and visualise the user interaction logs in Jupyter using a Jupyter extension (similar to verdant, not the provenance vectors)
 
-1. A user study to compare the tree/hierarchy visualisation first used in SenesMap against the latest that is availalbe in popular browsers, such as tab grouping and [chrome 'journey'](https://blog.google/products/chrome/finding-answers-gets-better-chrome/).
-1. How to record the 'why': many rules/decisions are recorded without the 'why'. Overtime, the reasons become no longer valid, while the decisions/rules are still being followed, sometimes blindly. This project aims to see if there is any efficient way to record the 'why' that will not introduce too much extra work and can be easily used by other applications. 
-1. Machine learing provenance: visualise the execution log in Jupyter Notebook (the data is captured using ProvBook: https://sheeba-samuel.github.io/REPRODUCE-ME/research/provbook.html)
-1. User study on trust towards machine learning: understand the factor that affect people's trusts towards machine learning recommendations.
-1. User study on user behaviour change caused by provenance: whether/how the users behave differently if they know that their actions are recorded.
+## Project: browser extension
+
+### Background
+- [Webpage](https://kaixu.me/2021/01/31/analytic-provenance-for-sensemaking/)
+
+### Reading
+- [SenseMap: Supporting Browser-based Online Sensemaking through Analytic Provenance](https://ieeexplore.ieee.org/document/7883515)
+  - [Webpage](https://vis4sense.github.io/sensemap/index.html)
+  - [Github repository](https://github.com/vis4sense/historymap)
+
+### Ideas
+- Improve the design of the HistoryMap so the tree fits better within a [Chrome side panel](https://developer.chrome.com/blog/extension-side-panel-launch/)
+- Create a browser extension that provide end-to-end support for online shopping
+  - Start with online research (can use HistoryMap)
+  - Automatically gather the required information, such as the price for different model
+    - with web scraping or chatGPT
+  - Create a visual comparison of different options
+- A user study to compare the tree/hierarchy visualisation first used in SenesMap against the latest that is availalbe in popular browsers, such as tab grouping and [chrome 'journey'](https://blog.google/products/chrome/finding-answers-gets-better-chrome/).
+- How to record the 'why': many rules/decisions are recorded without the 'why'. Overtime, the reasons become no longer valid, while the decisions/rules are still being followed, sometimes blindly. This project aims to see if there is any efficient way to record the 'why' that will not introduce too much extra work and can be easily used by other applications. 
     
 
 
