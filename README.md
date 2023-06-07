@@ -34,7 +34,9 @@
   - [Verdant github repository](https://github.com/mkery/Verdant)
 
 ### Idea 
-- Capture and visualise the user interaction logs in Jupyter using a Jupyter extension (similar to verdant, not the provenance vectors)
+- Capture and visualise the user interaction logs in Jupyter using a Jupyter extension (similar to verdant, not the provenance vectors) 
+  - to support tasks in machine learning model building, such as hyperparameter tuning
+  - to support end users, such as artists, to use generative AI models, such as [stable diffusion](https://stability.ai/blog/stable-diffusion-public-release)
 
 ## Project: browser extension
 
