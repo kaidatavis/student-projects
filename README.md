@@ -11,27 +11,20 @@
   - It has a [website](https://provenance-survey.caleydo.org/)
 
 ## Project: Projection of provenance vector sequence 
-### Background
-- [webpage](https://kaixu.me/2022/05/23/visualising-the-sensemaking-space/)
-
-### Reading
-- [Provectories: Embedding-based Analysis of Interaction Provenance Data](https://ieeexplore.ieee.org/document/9652041)
-  - [paper website](https://provectories.caleydoapp.org/)
+### Background and readings
+- [Sensemaking Processes as High-Dimensional Vector Squences](https://kaixu.me/2022/05/23/visualising-the-sensemaking-space/)
   
 ### Ideas
 - Visualise the online sensemaking provenance as vector sequences, i.e., apply provectories to browser history data;
 - Visualise the Jupyter provenance as vector sequences, i.e., apply provectories to jupyter user log;
-  - You should also go through the [readings for 'Project: Jupyter Extension'](https://github.com/kaidatavis/student-projects/blob/master/README.md#reading-2)
+  - You should also go through the readings for ['Project: Jupyter Extension'](https://github.com/kaidatavis/student-projects/blob/master/README.md#project-jupyter-extension)
 - Improve the vector sequence visualisation so it becomes easier to see patterns and understand what users are doing.
-  - You should also go through the [readings for 'project: browser extension'](https://github.com/kaidatavis/student-projects/edit/master/README.md#reading-3)
+  - You should also go through the readings for ['project: browser extension'](https://github.com/kaidatavis/student-projects/blob/master/README.md#project-browser-extension)
 
 ## Project: Jupyter extension
-### Background
-- [Webpage](https://kaixu.me/2021/01/23/machine-learning-provenance-for-hyperparameter-tuning/)
-
-### Reading 
-- [Towards Effective Foraging by Data Scientists to Find Past Analysis Choices](https://dl.acm.org/doi/10.1145/3290605.3300322)
-  - [Verdant github repository](https://github.com/mkery/Verdant)
+### Background and readings
+- [Human-Centred Data Science](https://kaixu.me/2021/01/23/machine-learning-provenance-for-hyperparameter-tuning/)
+- [Human-AI Teaming: Qualitative Analysis and Generative Models](https://kaixu.me/2021/01/31/interactive-learning-for-document-coding/)
 
 ### Idea 
 - Capture and visualise the user interaction logs in Jupyter using a Jupyter extension (similar to verdant, not the provenance vectors) 
@@ -40,13 +33,9 @@
 
 ## Project: browser extension
 
-### Background
-- [Webpage](https://kaixu.me/2021/01/31/analytic-provenance-for-sensemaking/)
-
-### Reading
-- [SenseMap: Supporting Browser-based Online Sensemaking through Analytic Provenance](https://ieeexplore.ieee.org/document/7883515)
-  - [Webpage](https://vis4sense.github.io/sensemap/index.html)
-  - [Github repository](https://github.com/vis4sense/historymap)
+### Background and readings
+- [Visual Analytic for Sensemaking](https://kaixu.me/2021/01/31/analytic-provenance-for-sensemaking/)
+- [Human-AI Teaming: Qualitative Analysis and Generative Models](https://kaixu.me/2021/01/31/interactive-learning-for-document-coding/)
 
 ### Ideas
 - Improve the design of the HistoryMap so the tree fits better within a [Chrome side panel](https://developer.chrome.com/blog/extension-side-panel-launch/)
