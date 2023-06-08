@@ -38,6 +38,7 @@
 - [Human-AI Teaming: Qualitative Analysis and Generative Models](https://kaixu.me/2021/01/31/interactive-learning-for-document-coding/)
 
 ### Ideas
+- Create a browser extension to support the usage of LLM or generative AI models through their web interface
 - Improve the design of the HistoryMap so the tree fits better within a [Chrome side panel](https://developer.chrome.com/blog/extension-side-panel-launch/)
 - Create a browser extension that provide end-to-end support for online shopping
   - Start with online research (can use HistoryMap)
