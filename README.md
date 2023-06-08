@@ -12,11 +12,11 @@
 
 ## Project: Projection of provenance vector sequence 
 ### Background
-- https://kaixu.me/2022/05/23/visualising-the-sensemaking-space/
+- [webpage](https://kaixu.me/2022/05/23/visualising-the-sensemaking-space/)
 
 ### Reading
 - [Provectories: Embedding-based Analysis of Interaction Provenance Data](https://ieeexplore.ieee.org/document/9652041)
-  - [project webpage](https://kaixu.me/2021/11/23/provectories-embedding-based-analysis-of-interaction-provenance-data/)
+  - [paper website](https://provectories.caleydoapp.org/)
   
 ### Ideas
 - Visualise the online sensemaking provenance as vector sequences, i.e., apply provectories to browser history data;
@@ -27,7 +27,7 @@
 
 ## Project: Jupyter extension
 ### Background
-- [Webpage](https://kaixu.me/2021/01/31/interactive-learning-for-document-coding/)
+- [Webpage](https://kaixu.me/2021/01/23/machine-learning-provenance-for-hyperparameter-tuning/)
 
 ### Reading 
 - [Towards Effective Foraging by Data Scientists to Find Past Analysis Choices](https://dl.acm.org/doi/10.1145/3290605.3300322)
