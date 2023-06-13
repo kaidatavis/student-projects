@@ -120,6 +120,8 @@ How to use different GitHub features for the project:
     - You can create a kanban board in 'project' (similar to Trello), 
     - create "milestones', e.g., one for each iteration
     - add 'issues' to 'milestones', and set deadline
+    - start with [this project template](https://github.com/users/kaidatavis/projects/2)
+      - add your name to the project title, such as 'Kai's project plan'
   - Each of you will have a top-level folder in the repository for your project
     - Please send me your github account username or email, so I can add you to the repository.
     - Please name your folder like this: year-degree-name-title (e.g., 2023-msc-kaixu-visual-analytics-for-sensemaking)
