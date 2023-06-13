@@ -47,9 +47,6 @@
   - Create a visual comparison of different options
 - A user study to compare the tree/hierarchy visualisation first used in SenesMap against the latest that is availalbe in popular browsers, such as tab grouping and [chrome 'journey'](https://blog.google/products/chrome/finding-answers-gets-better-chrome/).
 - How to record the 'why': many rules/decisions are recorded without the 'why'. Overtime, the reasons become no longer valid, while the decisions/rules are still being followed, sometimes blindly. This project aims to see if there is any efficient way to record the 'why' that will not introduce too much extra work and can be easily used by other applications. 
-    
-
-
 
 
 # Project plan/proposal
@@ -94,8 +91,7 @@ It is not always a marked component, but very important to ensure a successful p
    1. Fully working prototype (final prototype)
    1. User evaluation
    1. Final report
- - Create a project using [GitHub Project](https://github.com/kaidatavis/student-projects/projects).
-   - More on Github Project later.
+ - Create a project plan using [GitHub Project](https://github.com/kaidatavis/student-projects/projects) (more on this later).
     
 # Software and programming
 
