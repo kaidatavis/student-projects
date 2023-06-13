@@ -122,6 +122,7 @@ How to use different GitHub features for the project:
     - add 'issues' to 'milestones', and set deadline
     - start with [this project template](https://github.com/users/kaidatavis/projects/2)
       - add your name to the project title, such as 'Kai's project plan'
+      - add your name to all the project issues, such as 'Kai - recruit users'
   - Each of you will have a top-level folder in the repository for your project
     - Please send me your github account username or email, so I can add you to the repository.
     - Please name your folder like this: year-degree-name-title (e.g., 2023-msc-kaixu-visual-analytics-for-sensemaking)
