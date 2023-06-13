@@ -77,23 +77,25 @@ It is not always a marked component, but very important to ensure a successful p
     - do you plan to do any user evaluations?
     - ... 
 - Plan
-  - Agile and iterative 
-    - each iteration has requirements, design, implementation, and evaluation.
-    - the earlier iteration will focus more on requirements and design, and the later iteration will be more on implementaiton.
-  - For example 3 iterations: 
-    - first iteration: paper prototype
-    - second iteration: working prototype with minimal function
-    - third iteration: fully working prototype
-  - A list of deliverables and deadlines are fine (example below)
-    
-    | Deadline | Milestone | Deliverable |
-    | ---- | --------- | ----------- |
-    | Week ? | Submit project proposal | Project proposal|
-    | Week ? | Complete literature review | Literature review report|
-    | Week ? | Complete first iteration | Paper prototype|
-    | Week ? | Complete second iteration | Working prototype|
-    | Week ? | Complete third iteration | Final prototype|
-    | Week ? | Complete final report | Final report|
+  - Agile and iterative: 
+    - Gradually build up to the final prototype; 
+    - Don't try to build the final prototype from the beginning
+   1. Literature review (if there is more to do)
+   1. User requirements:
+      1. Talk to the real users
+      1. Document their needs: task specific (e.g. finding the most suitable master degree), not technical specific (need to use machine learning)
+   1. Paper prototype: design sketches 
+      1. on real paper or design software such as figma
+      1. Get user feedback
+   1. Working prototype with minimal functions (MVP: minimal viable product): 
+      1. leave out non-essentail functions (such as user account) and 
+      1. use simple alternatives instead of complex ones (e.g., using decisoin tree insteal of Large Language Models)
+      1. Get user feedback
+   1. Fully working prototype (final prototype)
+   1. User evaluation
+   1. Final report
+ - Create a project using [GitHub Project](https://github.com/kaidatavis/student-projects/projects).
+   - More on Github Project later.
     
 # Software and programming
 
