@@ -39,8 +39,9 @@ Ask how the artist how they use stable diffusion
 
 ## ToDo
 1. Daniel: Update the project plan
-2. Daniel: have a look of react https://react.dev/learn
-3. Daniel: put the recording of the meeting with Klaus somewhere online (but not github as the video file might a bit too big).
+2. Daniel: have a look of the [trrack library](https://trrackjs.vercel.app/)
+3. Daniel: have a look of react https://react.dev/learn
+4. Daniel: put the recording of the meeting with Klaus somewhere online (but not github as the video file might a bit too big).
 5. Kai: arrange an observation/interview with artist
 6. Daniel: move the code repository here
 7. Daniel: read the Verdant paper
