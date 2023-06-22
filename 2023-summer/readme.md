@@ -2,7 +2,7 @@ We will use this folder for the MSc and intern projects in summer 2023.
 
 Please use this file for all the meeting notes. 
 
-# (Template - the latest meeting is on top)
+*(Template - the latest meeting is on top)*
 
 # Meeting dates
 
