@@ -39,7 +39,9 @@ Ask how the artist how they use stable diffusion
 
 ## ToDo
 1. Daniel: Update the project plan
-2. Kai: arrange an observation/interview with artist
-3. Daniel: move the code repository here
-4. Daniel: read the Verdant paper
-5. Daniel: understand more about the Loops code
+2. Daniel: have a look of react https://react.dev/learn
+3. Kai: arrange an observation/interview with artist
+4. Daniel: move the code repository here
+5. Daniel: read the Verdant paper
+6. Daniel: understand more about the Loops code
+
