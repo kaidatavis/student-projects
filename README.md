@@ -119,10 +119,11 @@ You probably want to check out [GitHub Student Developer Pack](https://education
 How to use different GitHub features for the project:
   - The repository is public, so don't upload any data that you don't want to share
     - You can create a separate private repository for sensitve data. Follow the 'data management plan' of your ethics application.   
-  - Use [this (wiki) page](https://github.com/kaidatavis/student-projects/wiki/Meeting-Notes) for meeting notes
+  - Please use [this (wiki) page](https://github.com/kaidatavis/student-projects/wiki/Meeting-Notes) as the template for meeting notes
     - Follow the meeting notes/minutes template there and the latest one on top.
     - [This guide](https://gist.github.com/cuonggt/9b7d08a597b167299f0d) can get you started if you never used markdown before 
       - It is similar to HTML, but much simpler. Also very useful for programing.
+    - Save the meeting note as a 'readme.md' (such as [this file](https://github.com/kaidatavis/student-projects/blob/master/2023-summer/readme.md)) under the appropriate folder (such as [2023-summer](https://github.com/kaidatavis/student-projects/tree/master/2023-summer))
   - 'Issues': todo list/tasks and coding issue
     - Each 'issue' is a task to complete (action from the meeting)
     - Assign an issue to the person that is responsible 
@@ -133,7 +134,7 @@ How to use different GitHub features for the project:
     - start with [this project template](https://github.com/users/kaidatavis/projects/2)
       - add your name to the project title, such as 'Kai's project plan'
       - add your name to all the project issues, such as 'Kai - recruit users'
-  - Each of you will have a top-level folder in the repository for your project
+  - Please make a subfolder under the appropriate folder, such as `[2023-summer](https://github.com/kaidatavis/student-projects/tree/master/2023-summer)', for your project:
     - Please send me your github account username or email, so I can add you to the repository.
     - Please name your folder like this: year-degree-name-title (e.g., 2023-msc-kaixu-visual-analytics-for-sensemaking)
     - Use the your folder for your code and other things like notes (in markdown)
