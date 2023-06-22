@@ -121,7 +121,7 @@ How to use different GitHub features for the project:
     - You can create a separate private repository for sensitve data. Follow the 'data management plan' of your ethics application.   
   - Please use [this (wiki) page](https://github.com/kaidatavis/student-projects/wiki/Meeting-Notes) as the template for meeting notes
     - Follow the meeting notes/minutes template there and the latest one on top.
-    - [This guide](https://gist.github.com/cuonggt/9b7d08a597b167299f0d) can get you started if you never used markdown before 
+    - [This guide](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) can get you started if you never used markdown before 
       - It is similar to HTML, but much simpler. Also very useful for programing.
     - Save the meeting note as a 'readme.md' (such as [this file](https://github.com/kaidatavis/student-projects/blob/master/2023-summer/readme.md)) under the appropriate folder (such as [2023-summer](https://github.com/kaidatavis/student-projects/tree/master/2023-summer))
   - 'Issues': todo list/tasks and coding issue
