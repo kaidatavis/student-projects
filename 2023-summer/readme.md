@@ -10,6 +10,8 @@ Please use this file for all the meeting notes.
 - Meirong: Create a browser extension that provide end-to-end support for online shopping
 - Yuchen: Improve the design of the HistoryMap so the tree fits better within a Chrome side panel
 - Aijing: to support end users, such as artists, to use generative AI models, such as stable diffusion (dalle2, midjourney), through web interface
+- Yu: Projection of provenance vector sequence
+
 
 ## Specialist
 - GitHub: Xinhao YANG
